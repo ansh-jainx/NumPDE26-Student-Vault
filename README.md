@@ -27,11 +27,11 @@ Wikilinks like `[[Week-03-FEM-I]]` connect notes inside Obsidian. For exams: ope
 ### Option A — GitHub (recommended)
 
 ```bash
-git clone https://github.com/ansh-jainx/NumPDE-Study-Vault.git
-cd NumPDE-Study-Vault
+git clone https://github.com/ansh-jainx/NumPDE26-Student-Vault.git
+cd NumPDE26-Student-Vault
 ```
 
-> **Access:** this repository is **private**. Your instructor must add your GitHub username under **Settings → Collaborators** (or via a GitHub team) before `git clone` works.
+This repository is **public** — no GitHub collaborator invite is required.
 
 Then open that folder in Obsidian (see below).
 
