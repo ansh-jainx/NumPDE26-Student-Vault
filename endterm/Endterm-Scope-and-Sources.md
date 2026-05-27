@@ -41,8 +41,7 @@ Place course PDFs and a clone of **NPDERepo** alongside this vault on your machi
 | `NPDE_Endterm_Spring_2019_sols.pdf` | Older endterm |
 | `questions/NPDERepo/` | C++ mastersolutions ground truth |
 
-> [!warning] Missing locally
-> Split script PDFs (`NUMPDE_till400.pdf`, etc.) and Hiptmair tablet notes (`NPDEVideo_*`) from course materials are **not** on disk. This module uses `NUMPDE.pdf` + existing week guides.
+
 
 ## Exam vs homework vs NPDERepo folder names
 
